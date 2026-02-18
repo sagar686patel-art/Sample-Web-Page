@@ -1,2 +1,2 @@
 # Sample-Web-Page
-Learning HTML
+A simple web page while i started learning html
